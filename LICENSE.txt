@@ -1,0 +1,32 @@
+Copyright (c) 2025 Lucas Dos Santos
+
+Tous droits réservés.
+
+Ce logiciel (le « Jeu ») et l’ensemble de son contenu, incluant notamment les exécutables,
+systèmes de gameplay, code, visuels, textures, modèles, animations, sons, musiques,
+interfaces et documentations, sont protégés par le droit d’auteur.
+
+L’autorisation est accordée de télécharger, installer, jouer, enregistrer, streamer
+et partager des contenus vidéo du Jeu à des fins personnelles et non commerciales.
+
+Sont strictement interdits :
+- La copie, la modification, l’adaptation ou la création d’œuvres dérivées du Jeu
+- La décompilation, l’ingénierie inverse, le désassemblage ou toute tentative
+  d’extraction du code source
+- La redistribution du Jeu ou de ses composants en dehors des canaux officiels
+- La vente, la sous-licence, la monétisation ou l’utilisation commerciale du Jeu
+- La réutilisation de tout ou partie du Jeu (code, assets, systèmes, visuels)
+  dans un autre projet
+
+Ce Jeu peut inclure des assets tiers soumis à leurs propres licences.
+Ces assets restent la propriété de leurs ayants droit respectifs et sont utilisés
+conformément à leurs conditions d’utilisation.
+
+La création de vidéos, captures d’écran et diffusions en direct (streaming)
+est explicitement autorisée, sous réserve de mentionner l’auteur du Jeu.
+
+Ce logiciel est fourni « tel quel », sans aucune garantie.
+L’auteur ne pourra être tenu responsable de dommages résultant de son utilisation.
+
+Pour toute autorisation dépassant le cadre de cette licence :
+contact@zero.dev
